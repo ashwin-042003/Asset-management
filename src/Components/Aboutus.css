@@ -1,0 +1,25 @@
+.head1{
+    text-align: center;
+    font-family: serif;
+    padding: 10px;
+    background-color: rgb(226, 85, 85);
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 15px;
+}
+.head2{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    background-color: rgb(233, 171, 171);
+    padding: 10px;
+}
+.about img{
+    margin-left: 50px;
+width:500px;
+}
+.content1{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+}

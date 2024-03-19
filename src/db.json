@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "name": "name",
+      "username": "username",
+      "email": "email",
+      "password": "password",
+      "id": "1091"
+    },
+    {
+      "name": "Akash",
+      "username": "akash",
+      "password": "akash1304",
+      "email": "a@gmail.com",
+      "id": "e5a9"
+    },
+    {
+      "id": "3035",
+      "name": "Ashwin",
+      "username": "ashwin",
+      "password": "ashwin",
+      "email": "ashwin@gmail.com"
+    },
+    {
+      "id": "0d87",
+      "name": "Malesh",
+      "username": "malesh",
+      "password": "123",
+      "email": "m@gmail.com"
+    },
+    {
+      "id": "4143",
+      "name": "a",
+      "username": "ashwin",
+      "password": "123",
+      "email": "a@gmail.com"
+    },
+    {
+      "id": "1b7e",
+      "name": "Malesh",
+      "username": "m",
+      "password": "m",
+      "email": "m@gmail.com"
+    },
+    {
+      "id": "e1c9",
+      "name": "admin",
+      "username": "admin",
+      "password": "123",
+      "email": "admin@gmail.com"
+    },
+    {
+      "id": "f3fe",
+      "name": "abi",
+      "username": "abinesh",
+      "password": "2323",
+      "email": "1@gmail.com"
+    },
+    {
+      "id": "a0ee",
+      "name": "aravind",
+      "username": "aarav",
+      "password": "123",
+      "email": "arav@gmail.com"
+    },
+    {
+      "id": "e1ab",
+      "name": "deepesh",
+      "username": "deepesh06",
+      "password": "123",
+      "email": "asdjosfdjus@dsojc.co"
+    }
+  ]
+}
